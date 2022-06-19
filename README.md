@@ -23,10 +23,10 @@ cd ai-1.0/
 ```
 
 ### Note
-This will only work on EFI/UEFI, Legacy boot will not work
-This only installs the base operating system. Onced installed and booted up, login with the root account you set up and install your favorite text editor (`pacman -S nano`) and create your own user account (`useradd -m youruser`) & set the password for it (`passwd youruser`) then add yourself to sudoers (`nano /etc/sudoers`)
+* This will only work on EFI/UEFI, Legacy boot will not work.
+* This only installs the base operating system. Onced installed and booted up, login with the root account you set up and install your favorite text editor (`pacman -S nano`) and create your own user account (`useradd -m youruser`) & set the password for it (`passwd youruser`) then add yourself to sudoers (`nano /etc/sudoers`)
 
-No other programs or apps are installed
+* No other programs or apps are installed
 
 
 
