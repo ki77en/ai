@@ -19,7 +19,7 @@ A fast, simple Artix Linux Installer that uses OpenRC, Linux Zen, Grub & Network
 curl -OL https://github.com/ki77en/ai/archive/v1.0.tar.gz
 tar xzf v1.0.tar.gz
 cd ai-1.0/
-./install
+./install.sh
 ```
 
 ### Note
